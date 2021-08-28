@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "327225518865",
+    "project_id": "shopynow-34704",
+    "storage_bucket": "shopynow-34704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327225518865:android:faa823790e6145162efab0",
+        "android_client_info": {
+          "package_name": "com.osamaM.shopynowstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327225518865-a4rn9t0ud5coq2otvag3n1mnfi084vnm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.osamaM.shopynowstore",
+            "certificate_hash": "f93d21d45488f899c914267ac7265b4586055d51"
+          }
+        },
+        {
+          "client_id": "327225518865-ti156uqhijjgha3mhf7qipuhcbnvoloq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEVJCxcxWbNTVyP0JtDExHzo6yvrAPCwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327225518865-ti156uqhijjgha3mhf7qipuhcbnvoloq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "327225518865-1mt11ujbjj5lubde7cl4g0jed3qcqk22.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.osamaM.Valley"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
